@@ -1,0 +1,59 @@
+
+Your Institute - Pune University(SPPU)
+
+Experience 4
+1. How many years have you been working with React/NodeJS in an academic setting or on personal projects?
+->	2 months on react js on a personal projects.
+	
+2. How many years have you been working in the analytics space with exposure to ML libraries such as Scikit-learn, caret, NLTK or spark MLlib?
+->	No experience in machine learining
+
+3. How many years have you been working with JavaScript/Typescript/HTML/CSS in an academic setting or on personal projects?
+->	2 months on javascript on a personal projects. 4 years on html and css.
+
+4. Have you done any programming in Python and how many years of experience do you have in an academic setting or on personal projects?
+-> 	no experience in python
+
+
+Behavioral - Motivation for the Job 3
+1. What specifically attracted you to this particular position and what interests you most about our company?
+-> mostly i like the company developing, promoting frontend work for new joinee.
+
+
+2. What are the key contributions you can bring to this role and the company?
+-> 	valuable asset.
+
+
+Behavioral - Personal 10
+1. Are you willing to work on weekends?
+->	yes
+
+
+2. What’s the biggest misconception your coworkers/colleagues have about
+you and why do they think that?
+-> nnot so any.
+
+3. What’s the most interesting thing about you that’s not on
+your resume?
+-> extra charmness.
+
+
+4. Do you feel overwhelmed in high stress/pressure situations?
+->	ya sometimes.
+
+5. Describe the best partner or supervisor with whom you’ve worked.
+What part of their managing style appealed to you? What characteristics are you looking for in a supervisor/manager?
+->	one of my team lead in time of internship.
+	he was so pleasing to all the team dispite of his position and the workload he has.
+	
+
+6. What are your biggest strengths? What are your biggest weaknesses?
+->	strength - correct analytics of topic
+	weaknesses - fear of failure.
+	
+
+7. How would your manager describe you? Now tell me, how would your best friend describe you?
+->	Hardworker.
+
+8. What are the three things that are most important to you in a job?
+->	indepth knowledge, hardwork, rich-culture.
